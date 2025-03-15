@@ -22,6 +22,7 @@ const songs = [
   "Metro_Boomin,_The_Weeknd,_21_Savage_-_Creepin_[_YouConvert.net_].mp3",
   "The Weeknd, Ariana Grande - Die For You.mp3",
   "until i found you - stephen sanchez.mp3",
+  "Doja Cat x The Weeknd x Lana Del Rey - Streets One Of The Girls White Mustang.mp3",
 ];
 
 var swiper = new Swiper(".swiper", {
